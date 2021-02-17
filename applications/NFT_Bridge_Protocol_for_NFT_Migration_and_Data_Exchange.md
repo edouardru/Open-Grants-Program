@@ -32,7 +32,7 @@ The aim of this proposal is to standardize what information is sufficient and wh
 
 There are already Polkadot bridges under development for ERC-20 tokens and other arbitrary data. However, there is no consensus yet on how to bridge NFTs across chains. This project aim is to create a standard to do so at the messaging level.
 
-Our team is building NFT.com, a marketplace for the world’s tokenized assets and we need this infrastructure for our marketplace to work effectively on the Polkadot Network. Previous to this we also developed [Cryptograph](https://cryptograph.co), an NFT publisher and marketplace on Ethereum.
+Our team is building MyNFT, the marketplace for the world’s tokenized assets and we need this infrastructure for our marketplace to work effectively on the Polkadot Network. Previous to this we also developed [Cryptograph](https://cryptograph.co), an NFT publisher and marketplace on Ethereum.
 
 ### Project Details
 The deliverable of this proposal is a standardized protocol specification.
@@ -155,6 +155,6 @@ We will write up the standard and documentation for cross-universe migration, wh
 We will implement this standard for EVM-compatible chains. Our main goal is the ability for any Ethereum mainnet NFT to be painlessly migrated to Moonbeam on the Polkadot network.
 
 ## Additional Information :heavy_plus_sign: 
-This proposal is a part of the wider NFT.com venture.
+This proposal is a part of the wider MyNFT venture.
 
 Learn more about our vision for the bridge here: [link](https://docs.google.com/document/d/1mhSKmC_4Hg7GqJuSLZk5Tu1hNjJlqo6O5TNwFx-e6vw/edit?usp=sharing) 
